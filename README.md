@@ -16,5 +16,6 @@ https://jr-amazon-scraper.herokuapp.com/
 
 ###  Frontend created to fetch json data from backend to display the results.
 
+# Front Page
 
-
+![jr-amazon-search netlify app_](https://user-images.githubusercontent.com/67536039/162637494-f41cbaa0-077a-4036-be80-91ba03938ef2.png)
